@@ -33,9 +33,9 @@ Lunar surface chemistry is essential for revealing petrological characteristics 
 
 The inversion model requires only a standard computer. For the model training phase, a standard computer is sufficient. Of course a computer with a Graphic Processing Unit (GPU)  can increase the training speed. For the model prediction phase, huge amounts of data need to be processed to predict the oxide abundance on the lunar surface, therefore, computers with GPU are recommended for improving efficiency. In our study, we used a PC workstation with the following specs:
 
-`RAM` : 128 GB  
-`CPU` : Intel(R) Xeon(R) Platinum 8352Y CPU @ 2.20GHz
-`GPU` : NVIDIA GeForce RTX 3090 Graphics Processing Unit
+  `RAM` : 128 GB  
+  `CPU` : Intel(R) Xeon(R) Platinum 8352Y CPU @ 2.20GHz
+  `GPU` : NVIDIA GeForce RTX 3090 Graphics Processing Unit
 
 ## Software Requirements
 
