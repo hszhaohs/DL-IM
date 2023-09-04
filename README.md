@@ -40,9 +40,8 @@ The inversion model requires only a standard computer. For the model training ph
 ## Software Requirements
 
 - The code has been tested on the following  OS systems:
-
-`Linux` : Ubuntu 20.04
-`Windows` : Windows 10
+  - `Linux` : Ubuntu 20.04
+  - `Windows` : Windows 10
 
 - The code is implemented in `Python` and `Python >= 3.6` is recommended.
 
